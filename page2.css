@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400|Open+Sans:700);
+
+@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+
+body
+{
+    background-color: black;
+    text-align: center;
+    font-family: "Oswald", Sans-serif;
+    color: skyblue;
+}
+
+h2
+{
+ 
+ text-align: center;
+}
+
+
+

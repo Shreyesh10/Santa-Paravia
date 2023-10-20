@@ -1,0 +1,40 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url("/Users/shreyesh10/Desktop/CIS 483/Game/theme.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+ul
+{
+    display: block;
+    left: 50px;
+    bottom: 60px;
+    text-transform: uppercase;
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Removes bullets*/
+ul li
+{
+    list-style: none;
+}
+
+/* Removes underline from text and changes color*/
+ul li a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+
+/* When pointer is dragged to the menu the color changes*/
+ul li a:hover{
+    color: rgb(33, 125, 225);
+}
